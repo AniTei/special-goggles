@@ -1,0 +1,31 @@
+{
+  "name": "special-goggles",
+  "version": "0.0.2",
+  "description": "This is for practicing",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "test command",
+    "watch": "sass --watch src/scss:dist/css & live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniTei/special-goggles.git"
+  },
+  "keywords": [
+    "practice",
+    "test"
+  ],
+  "author": "Anine Teigland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniTei/special-goggles/issues"
+  },
+  "homepage": "https://github.com/AniTei/special-goggles#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.72.0"
+  }
+}
